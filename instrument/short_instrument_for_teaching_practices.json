@@ -1,0 +1,137 @@
+{
+    "Dimensions": [
+    {
+    "type": "Effective teaching practices",
+    "latent_traits": [
+        {
+            "trait": "Teaching and assesement consistency",
+            "practices": [
+                {
+                    "practice": "Authentic assessment",
+                    "description": "Evaluation using situations, tasks, or standards similar to those that professionals usually face."
+                },
+                {
+                    "practice": "Project-Based Learning",
+                    "description": "Engaging students in complex and authentic tasks that foster the development of practical skills under faculty supervision."
+                },
+                {
+                    "practice": "Student Self-Assessment",
+                    "description": "Encouraging students to evaluate their own work, promoting reflection and self-awareness in learning."
+                },
+                {
+                    "practice": "Constructive alignment",
+                    "description": "Designing curriculum activities that support the achievement of objectives and reflect assessments."
+                },
+                {
+                    "practice": "Frequent Feedback from Teachers",
+                    "description": "Providing timely and high-quality feedback to help students understand their progress and areas for improvement."
+                },
+                {
+                    "practice": "Application of Knowledge",
+                    "description": "Encouraging students to apply what they have learned in increasingly authentic, real-world contexts and/or in real-world-like problems."
+                }
+            ]
+        },
+        {
+            "trait": "Fostering an emotional connection with content",
+            "practices": [
+                {
+                    "practice": "Stimulating Student Interest",
+                    "description": "Engaging students by stimulating their interest in course material to foster better learning outcomes."
+                },
+                {
+                    "practice": "Relating Content to Students’ Lives and Interests",
+                    "description": "Highlighting how new content connects with students’ personal contexts to facilitate integration with prior knowledge."
+                }
+            ]
+        },
+        {
+            "trait": "Student-faculty relationship",
+            "practices": [
+                {
+                    "practice": "Instructor Enthusiasm for the Course",
+                    "description": "Demonstrating enthusiasm for the course or content to inspire students and create a positive learning environment."
+                },
+                {
+                    "practice": "Close Instructor-Student Relationship",
+                    "description": "Teacher availability and willingness to help students or answer questions."
+                }
+            ]
+        },
+        {
+            "trait": "",
+            "practices": [
+                {
+                    "practice": "Clarity and comprehensibility of explanations",
+                    "description": "Ensure that the course content is delivered clearly and understandably to improve student learning."
+                },
+                {
+                    "practice": "Modelling",
+                    "description": "Allowing students to witness problem-solving or reasoning so that thought processes, planning, or approaches become explicit."
+                },
+                {
+                    "practice": "Clarity of course materials",
+                    "description": "Class visual resources (such as presentations or others) are understandable and facilitate content comprehension."
+                }
+            ]
+        }
+    ]
+},
+{
+    "type": "Malfunctional teaching practices",
+    "latent_traits": [
+        {
+            "trait": "Breakdown of constructive alignment",
+            "practices": [
+                {
+                    "practice": "Monotony in instructional activities",
+                    "description": "Faculty use the same teaching-learning activities repeatedly or for a long-time within the lesson."
+                },
+                {
+                    "practice": "lack of intellectual challenges",
+                    "description": "The course content, activities, or assignments do not present an interesting challenge for the students, their level of knowledge, and their skills."
+                },
+                {
+                    "practice": "No validation of assessment and grades",
+                    "description": "There are no attempts to learn about and improve the criteria-based quality of assessments and resulting grading."
+                }
+            ]
+        },
+        {
+            "trait": "Lack of pedagogical support",
+            "practices": [
+                {
+                    "practice": "Inadequate or insufficient scaffolding",
+                    "description": "The presentation of the content or assessment activities (e.g., assignments) does not match the students’ level of knowledge and skills."
+                },
+                {
+                    "practice": "No coaching",
+                    "description": "There are no activities which monitor, analyze, and regulate the learners’ knowledge and skill developments."
+                },
+                {
+                    "practice": "No modeling",
+                    "description": "There are no activities which demonstrate how to perform desired activities or which articulate the reasoning necessary for the activities."
+                }
+            ]
+        },
+        {
+            "trait": "Problems in curriculum design",
+            "practices": [
+                {
+                    "practice": "Unbalanced goals",
+                    "description": "The learning objectives omit relevant areas or, conversely, cover too many aspects to be manageable."
+                },
+                {
+                    "practice": "Disorganization",
+                    "description": "There is no clear structure on contents, activities, or in time."
+                }
+            ]
+        }
+    ]
+}
+]
+}
+                
+                
+                
+                
